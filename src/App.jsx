@@ -1,9 +1,7 @@
+import DestinationContainer from "./DestinationContainer";
+
 function App() {
-  return (
-    <div>
-      {/* Your code here */}
-    </div>
-  )
+  return <DestinationContainer />;
 }
 
-export default App
+export default App;
